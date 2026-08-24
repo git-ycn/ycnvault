@@ -11,7 +11,7 @@ export const PRODUCTS = [
     img: 'https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80&w=800',
     images: [
       'https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80&w=800',
-      '/androidhacks.jpeg'
+      '/androidhacks.jpg'
     ]
   },
   { 
@@ -26,7 +26,7 @@ export const PRODUCTS = [
     img: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=800',
     images: [
       'https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=800'
+      '/coding.jpg'
     ]
   },
   { 
