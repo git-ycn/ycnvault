@@ -1,0 +1,8 @@
+{
+  "name": "YCN Vault",
+  "description": "A modern SaaS-style free technical and digital resource directory offering source code repositories, developer guides, web utilities, and digital assets with dark/light themes and internationalization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
