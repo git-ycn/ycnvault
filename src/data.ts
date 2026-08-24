@@ -53,10 +53,10 @@ export const PRODUCTS = [
     price: 0.00, 
     downloadUrl: 'https://xupbvecz0uqtebvs.public.blob.vercel-storage.com/15%2B%20Million%20Resell%20Digital%20Products%20%281%29.pdf',
     fileName: '15+ Million Resell Digital Products.pdf',
-    img: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&q=80&w=800',
+    img: 'https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&q=80&w=800',
     images: [
-      'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&q=80&w=800'
+      'https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&q=80&w=800',
+      '/resell.jpg'
     ]
   }
 ];
